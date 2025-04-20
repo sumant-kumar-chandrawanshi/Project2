@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exeption_handling_java/Exeption_handling_java.iml" filepath="$PROJECT_DIR$/Exeption_handling_java/Exeption_handling_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphInJava/GraphInJava.iml" filepath="$PROJECT_DIR$/GraphInJava/GraphInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashsetInJava.java/HashsetInJava.java.iml" filepath="$PROJECT_DIR$/HashsetInJava.java/HashsetInJava.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkListInJava/LinkListInJava.iml" filepath="$PROJECT_DIR$/LinkListInJava/LinkListInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsProblem/LoopsProblem.iml" filepath="$PROJECT_DIR$/LoopsProblem/LoopsProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewJava.iml" filepath="$PROJECT_DIR$/NewJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternQuestion/PatternQuestion.iml" filepath="$PROJECT_DIR$/PatternQuestion/PatternQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_question/Practice_question.iml" filepath="$PROJECT_DIR$/Practice_question/Practice_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueInJava/QueueInJava.iml" filepath="$PROJECT_DIR$/QueueInJava/QueueInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadConcept/ThreadConcept.iml" filepath="$PROJECT_DIR$/ThreadConcept/ThreadConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeInJava/TreeInJava.iml" filepath="$PROJECT_DIR$/TreeInJava/TreeInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+    </modules>
+  </component>
+</project>
