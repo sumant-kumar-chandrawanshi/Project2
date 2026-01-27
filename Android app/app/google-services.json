@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047459333357",
+    "project_id": "my-app-sk-hub",
+    "storage_bucket": "my-app-sk-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047459333357:android:466b98442229a14af178e4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOIpsa-iYSum6-aHuwWUIqN7ELy4spxuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
