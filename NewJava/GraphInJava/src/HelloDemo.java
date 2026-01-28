@@ -1,2 +1,29 @@
-package PACKAGE_NAME;public class HelloDemo {
+import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class HelloDemo extends JFrame {
+    private JPanel panelMain;
+    private JLabel txtname;
+    private JButton btnClick;
+    private JTextField texName;
+    private JLabel fieldName;
+
+    public HelloDemo()  {
+        btnClick.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                JOptionPane.showMessageDialog(btnClick, texName.getText()+"Hello");
+            }
+        });
+    }
+
+    public static void main(String[] args) {
+    HelloDemo h=new HelloDemo();
+    h.setContentPane(h.panelMain);
+    h.setTitle("Hello");
+    h.setSize(300,400);
+    h.setVisible(true);
+    h.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    }
 }

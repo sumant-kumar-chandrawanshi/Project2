@@ -6,5 +6,7 @@ public class DemoAwt {
         Frame f=new Frame();
         //  f.set visibility(true);
         f.setSize(400,400);
+        System.out.println("hi");
+
     }
 }
